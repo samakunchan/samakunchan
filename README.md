@@ -1,4 +1,21 @@
-### Hi there 👋
+<img src="https://visitor-badge.glitch.me/badge?page_id=samakunchan" alt="visitor badge"/>
+
+[![Contact Badge](https://img.shields.io/badge/Contactez-moi-green)](https://github.com/samakunchan/samatech/contact)
+### Bonjour, toi qui passe par ici 👋
+Je suis Cédric Badjah, Développeur web.
+Comme tu peux le voir j'ai beaucoup de répo. Je fais plein de chose, parfois je les refais et rerefais sans forcément les faire évoluer. J'aime bien avoir une trace de mes codes "mal fait" et en plus cela me permet de voir ma progression.
+Il y a forcément des projets qui comptent plus que les autres et tu as raison, je les met ci desssous ranger techno:
+  <details>
+    <summary>Angular</summary>
+    <br>
+    <p>- <a href="https://github.com/samakunchan/velooc">Velooc</a>: Projet étudiant de location refaisa vec Angular</p>
+    <p>- <a href="https://github.com/samakunchan/velooc-ngrx">Velooc with NgRx</a>: Même projet avec une monter en compétence avec NgRx</p>
+  </details>
+  <details>
+    <summary>Symfony</summary>
+    <p>- <a href="https://github.com/samakunchan/samatech">Samakunchan Technology</a>: Mon site web</p>
+    <p>- <a href="https://github.com/samakunchan/surveysamapi">API Survey RESTFUL</a>: Mon premier APi avec Symfony</p>
+  </details>
 
 <!--
 **samakunchan/samakunchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +31,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samakunchan)](https://github.com/anuraghazra/github-readme-stats)
+
+Actuellement je travail sur ce repo:
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samakunchan&repo=velooc-ngrx)](https://github.com/anuraghazra/github-readme-stats)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samakunchan&repo=velooc)](https://github.com/anuraghazra/github-readme-stats)
