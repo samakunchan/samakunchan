@@ -1,6 +1,6 @@
 [![Contact Badge](https://img.shields.io/badge/Contactez-moi-green)](https://samakunchan-technology.com/contact)
 
-
+<img src="https://visitor-badge.glitch.me/badge?page_id=samakunchan" alt="visitor badge"/>
 
 ### Bonjour, toi qui passe par ici 👋
 Je suis Cédric Badjah, Développeur web.
@@ -19,7 +19,6 @@ Il y a forcément des projets qui comptent plus que les autres et tu as raison, 
   </details>
 
 <!--
-<img src="https://visitor-badge.glitch.me/badge?page_id=samakunchan" alt="visitor badge"/>
 **samakunchan/samakunchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
