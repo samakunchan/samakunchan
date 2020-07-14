@@ -1,5 +1,5 @@
 [![Contact Badge](https://img.shields.io/badge/Contactez-moi-green)](https://samakunchan-technology.com/contact)
-<img src="https://visitor-badge.glitch.me/badge?page_id=samakunchan" alt="visitor badge"/>
+
 
 
 ### Bonjour, toi qui passe par ici 👋
@@ -19,6 +19,7 @@ Il y a forcément des projets qui comptent plus que les autres et tu as raison, 
   </details>
 
 <!--
+<img src="https://visitor-badge.glitch.me/badge?page_id=samakunchan" alt="visitor badge"/>
 **samakunchan/samakunchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -32,9 +33,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samakunchan)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samakunchan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=24478f&hide=["contribs"])
 
 Actuellement je travail sur ce repo:
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samakunchan&repo=velooc-ngrx)](https://github.com/anuraghazra/github-readme-stats)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samakunchan&repo=velooc)](https://github.com/anuraghazra/github-readme-stats)
+  
