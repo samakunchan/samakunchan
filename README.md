@@ -1,6 +1,7 @@
+[![Contact Badge](https://img.shields.io/badge/Contactez-moi-green)](https://github.com/samakunchan/samatech/contact)
 <img src="https://visitor-badge.glitch.me/badge?page_id=samakunchan" alt="visitor badge"/>
 
-[![Contact Badge](https://img.shields.io/badge/Contactez-moi-green)](https://github.com/samakunchan/samatech/contact)
+
 ### Bonjour, toi qui passe par ici 👋
 Je suis Cédric Badjah, Développeur web.
 Comme tu peux le voir j'ai beaucoup de répo. Je fais plein de chose, parfois je les refais et rerefais sans forcément les faire évoluer. J'aime bien avoir une trace de mes codes "mal fait" et en plus cela me permet de voir ma progression.
