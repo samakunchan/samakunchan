@@ -1,4 +1,4 @@
-[![Contact Badge](https://img.shields.io/badge/Contactez-moi-green)](https://github.com/samakunchan/samatech/contact)
+[![Contact Badge](https://img.shields.io/badge/Contactez-moi-green)](https://samakunchan-technology.com/contact)
 <img src="https://visitor-badge.glitch.me/badge?page_id=samakunchan" alt="visitor badge"/>
 
 
