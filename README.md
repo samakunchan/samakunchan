@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 
 Actuellement je travail sur ce repo:
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samakunchan&repo=velooc-ngrx)](https://github.com/anuraghazra/github-readme-stats)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samakunchan&repo=dishes-sama)](https://github.com/anuraghazra/github-readme-stats)
   
