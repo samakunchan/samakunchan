@@ -9,7 +9,8 @@ Il y a forcément des projets qui comptent plus que les autres et tu as raison, 
     <summary>Angular</summary>
     <br>
     <p>- <a href="https://github.com/samakunchan/velooc">Velooc</a>: Projet étudiant de location refaisa vec Angular</p>
-    <p>- <a href="https://github.com/samakunchan/velooc-ngrx">Velooc with NgRx</a>: Même projet avec une monter en compétence avec NgRx</p>
+    <p>- <a href="https://github.com/samakunchan/velooc-ngrx">Velooc avec NgRx</a>: Même projet avec une monter en compétence avec NgRx</p>
+    <p>- <a href="https://github.com/samakunchan/users-stories-cars">User Cars Stories</a>: Test d'entretien d'embauche avec NgRx</p>
   </details>
   <details>
     <summary>Symfony</summary>
@@ -36,4 +37,9 @@ Here are some ideas to get you started:
 Actuellement je travail sur ce repo:
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samakunchan&repo=dishes-sama)](https://github.com/anuraghazra/github-readme-stats)
+  
+Le dernier travail que j'ai réalisé:
+<p>C'est un test d'entretien d'embauche que j'ai réalisé avec Angular et le pattern NgRx.</p>
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samakunchan&repo=users-stories-cars)](https://github.com/anuraghazra/github-readme-stats)
   
