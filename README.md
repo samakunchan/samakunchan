@@ -2,20 +2,24 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=samakunchan" alt="visitor badge"/>
 
 ### Bonjour, toi qui passe par ici 👋
-Je suis Cédric Badjah, Développeur web.
-Comme tu peux le voir j'ai beaucoup de répo. Je fais plein de chose, parfois je les refais et rerefais sans forcément les faire évoluer. J'aime bien avoir une trace de mes codes "mal fait" et en plus cela me permet de voir ma progression.
-Il y a forcément des projets qui comptent plus que les autres et tu as raison, je les met ci desssous ranger techno:
+My name is Cédric Badjah, I'm a web developer.
+As you see, I have a lot of repo. I do a lot of things, and usually I try again and again, until I'm satisfied. But I like to keep my bad code (as much as possible) for some reason.
+- For laught in the future
+- To remember my mistake, and to remember the solution.
+- To see my improvements.
+
+There are inevitably projects that matter more than the others and you're right, I put them below, tidy up techno:
   <details>
     <summary>Angular</summary>
     <br>
-    <p>- <a href="https://github.com/samakunchan/velooc">Velooc</a>: Projet étudiant de location refaisa vec Angular</p>
-    <p>- <a href="https://github.com/samakunchan/velooc-ngrx">Velooc avec NgRx</a>: Même projet avec une monter en compétence avec NgRx</p>
-    <p>- <a href="https://github.com/samakunchan/users-stories-cars">User Cars Stories</a>: Test d'entretien d'embauche avec NgRx</p>
+    <p>- <a href="https://github.com/samakunchan/velooc">Velooc</a>: Student project of bike's rent with Angular</p>
+    <p>- <a href="https://github.com/samakunchan/velooc-ngrx">Velooc avec NgRx</a>: Student project of bike's rent with Angular NgRx</p>
+    <p>- <a href="https://github.com/samakunchan/users-stories-cars">User Cars Stories</a>: Test NgRx for a job</p>
   </details>
   <details>
     <summary>Symfony</summary>
-    <p>- <a href="https://github.com/samakunchan/samatech">Samakunchan Technology</a>: Mon site web</p>
-    <p>- <a href="https://github.com/samakunchan/surveysamapi">API Survey RESTFUL</a>: Mon premier APi avec Symfony</p>
+    <p>- <a href="https://github.com/samakunchan/samatech">Samakunchan Technology</a>: My personal website</p>
+    <p>- <a href="https://github.com/samakunchan/surveysamapi">API Survey RESTFUL</a>: MMy first API with Symfony</p>
   </details>
 
 <!--
@@ -34,12 +38,11 @@ Here are some ideas to get you started:
 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samakunchan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=24478f&hide=["contribs"])
 
-Actuellement je travail sur ce repo:
+Actually, I'm working on this repo:
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samakunchan&repo=dishes-sama)](https://github.com/anuraghazra/github-readme-stats)
   
-Le dernier travail que j'ai réalisé:
-<p>C'est un test d'entretien d'embauche que j'ai réalisé avec Angular et le pattern NgRx.</p>
+This is the last project I have made:
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samakunchan&repo=users-stories-cars)](https://github.com/anuraghazra/github-readme-stats)
   
