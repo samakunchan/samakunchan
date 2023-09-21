@@ -12,9 +12,9 @@ There are inevitably projects that matter more than the others and you're right,
   <details>
     <summary>Angular</summary>
     <br>
-    <p>- <a href="https://github.com/samakunchan/velooc">Velooc</a>: Student project of bike's rent with Angular</p>
-    <p>- <a href="https://github.com/samakunchan/velooc-ngrx">Velooc avec NgRx</a>: Student project of bike's rent with Angular NgRx</p>
-    <p>- <a href="https://github.com/samakunchan/users-stories-cars">User Cars Stories</a>: Test NgRx for a job</p>
+    <p>- <a href="https://github.com/samakunchan/devppg-api">Dev PPG API</a>: An api for my future website (private for now)</p>
+    <p>- <a href="https://github.com/samakunchan/papangue">Papague</a>: The template of my website</p>
+    <p>- <a href="https://github.com/samakunchan/keycloak">Keycloak</a>: For all my authentication</p>
   </details>
   <details>
     <summary>Symfony</summary>
@@ -38,9 +38,6 @@ Here are some ideas to get you started:
 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samakunchan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=24478f&hide=["contribs"])
 
-Actually, I'm working on this repo:
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samakunchan&repo=devppg-api)](https://github.com/anuraghazra/github-readme-stats)
-  
 All good projects are in private repo, sorry, if you don't see much
   
