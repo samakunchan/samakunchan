@@ -40,9 +40,7 @@ Here are some ideas to get you started:
 
 Actually, I'm working on this repo:
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samakunchan&repo=dishes-sama)](https://github.com/anuraghazra/github-readme-stats)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samakunchan&repo=devppg-api)](https://github.com/anuraghazra/github-readme-stats)
   
-This is the last project I have made:
-
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samakunchan&repo=users-stories-cars)](https://github.com/anuraghazra/github-readme-stats)
+All good projects are in private repo, sorry, if you don't see much
   
